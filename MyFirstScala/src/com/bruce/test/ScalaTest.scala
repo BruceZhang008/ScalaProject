@@ -38,6 +38,8 @@ object ScalaTest {
       }
       println(sum(1,3))
       println(getBoolean(10));
+
+      //object 与 class 的区别
   }
   //定义匿名函数
   var sum = (x:Int,y:Int) => x+y;
